@@ -1,0 +1,14 @@
+Academic Plagiarism / Semantic Similarity Detection
+
+Dataset:- Microsoft Research Paraphrase Corpus from kaggle
+
+Steps:-
+
+1) Dataset Collection
+2) Data Preparation
+    Text Preprocessing
+    Text to Vector Conversion
+    Siamese BiSLTM Model
+    Model Training
+    Model Testing and Evaluation
+    Similarity Detection Application
